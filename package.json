@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-kysok",
+  "name": "@scbt-ecom/eslint-npm-package",
   "version": "1.2.6",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": "^8.57.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-typescript": "^18.0.0",
